@@ -1,18 +1,35 @@
-# Hi, I'm Abrar Alsayedi
-### Computer Science Student · Fintech · Consulting · AI
+<p align="center">
+  <img width="100%" alt="Abrar Alsayedi — Technology, people and a creative perspective" src="https://capsule-render.vercel.app/api?type=rect&amp;color=F3EDE4&amp;height=180&amp;text=Abrar%20Alsayedi&amp;fontColor=5B4636&amp;fontSize=44&amp;fontAlignY=43&amp;desc=Technology%20%20%7C%20%20People%20%20%7C%20%20Creativity&amp;descSize=16&amp;descAlignY=68&amp;descColor=7B6A5B" />
+</p>
+
+<p align="center"><b>Computer Science major · Theatre minor · Baruch College</b><br>
+Fintech · Consulting · AI · Acting &amp; Directing</p>
+
+<p align="center">
+<img alt="Fintech" src="https://img.shields.io/badge/FINTECH-6B5141?style=for-the-badge" />
+<img alt="Consulting" src="https://img.shields.io/badge/CONSULTING-A4907C?style=for-the-badge" />
+<img alt="AI" src="https://img.shields.io/badge/AI-B9D3E6?style=for-the-badge&amp;labelColor=B9D3E6" />
+<img alt="Theatre" src="https://img.shields.io/badge/THEATRE-8A7665?style=for-the-badge" />
+</p>
+
+---
 
 ## About Me
-I'm a Computer Science student at **Baruch College**, graduating in **May 2028**. I'm interested in the intersection of technology, business, and people, especially fintech and consulting roles where I can work directly with clients, understand their needs, and help turn ideas into practical solutions.
+I'm a **Computer Science major and Theatre minor at Baruch College**, graduating in **May 2028**. I'm interested in the intersection of technology, business, and people, especially fintech and consulting roles where I can work directly with clients, understand their needs, and help turn ideas into practical solutions.
 
 I'm passionate about contributing to the growth of AI. Through AI evaluation, team projects, and student leadership, I've gained experience assessing AI outputs, researching user needs, building software, and presenting ideas to different audiences. I enjoy connecting technical work with clear communication and collaboration.
+
+## The Creative Side
+
+I love **acting and directing**. Theatre gives me another way to explore people, perspectives, and storytelling. Alongside my interest in technology, I enjoy work that brings creativity, communication, and collaboration together.
 
 ## Technical Skills
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6B5141?style=for-the-badge&logo=python&logoColor=F3EDE4)
+![C++](https://img.shields.io/badge/C%2B%2B-8A7665?style=for-the-badge&logo=cplusplus&logoColor=F3EDE4)
+![HTML](https://img.shields.io/badge/HTML5-A4907C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-789AB5?style=for-the-badge&logo=css&logoColor=white)
 
 **Development & AI Tools**
 
@@ -48,6 +65,6 @@ Client presentations · Research · AI output evaluation · Team coordination ·
 - How AI can improve products and services through thoughtful evaluation and development.
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrar-alsayedi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-789AB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrar-alsayedi)
 
 **Languages:** English & Arabic
